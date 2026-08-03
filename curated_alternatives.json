@@ -1,0 +1,39 @@
+{
+  "_README": "Hand-curated greener alternatives for the demo's hero products. Frontend looks up a product_id here FIRST; else falls back to the auto-matched Greener_Alternative_Product_ID column. Brands are real eco brands; URLs are live bol.com search links. The price/saving NUMBERS are illustrative demo placeholders (synthetic) — fine for the demo, verify on bol.com if you want them exact.",
+  "PROD-2025-0138": {
+    "from_name": "Nano Phone Accessories Speaker (Cradle-to-Cradle label, plastic, flown from Japan, 168 kg CO2)",
+    "alternative": {
+      "name": "House of Marley Get Together 2 Bluetooth Speaker",
+      "brand": "House of Marley",
+      "url": "https://www.bol.com/nl/nl/s/?searchtext=house+of+marley+bluetooth+speaker",
+      "price_eur": 79.99,
+      "sustainability_note": "Made from recycled plastic, FSC bamboo and recyclable aluminium; recyclable packaging.",
+      "co2_saving_kg": 120,
+      "euro_saving": 15.00
+    }
+  },
+  "PROD-2025-0004": {
+    "from_name": "5-1 Full Body Shaver (Beauty & Skincare, plastic, USA origin)",
+    "alternative": {
+      "name": "Bambaw Reusable Safety Razor (plastic-free, lifetime use)",
+      "brand": "Bambaw",
+      "url": "https://www.bol.com/nl/nl/s/?searchtext=bambaw+safety+razor",
+      "price_eur": 24.95,
+      "sustainability_note": "Plastic-free metal body that lasts a lifetime; only the recyclable steel blade is replaced.",
+      "co2_saving_kg": 16,
+      "euro_saving": 31.50
+    }
+  },
+  "PROD-2025-0090": {
+    "from_name": "Personal Care Gadget (Beauty & Skincare)",
+    "alternative": {
+      "name": "Foreo refurbished facial device",
+      "brand": "Foreo",
+      "url": "https://www.bol.com/nl/nl/s/?searchtext=foreo+refurbished",
+      "price_eur": 89.00,
+      "sustainability_note": "Refurbished unit with warranty; avoids a second device being manufactured (circular).",
+      "co2_saving_kg": 35,
+      "euro_saving": 40.00
+    }
+  }
+}

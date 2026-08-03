@@ -1,0 +1,9 @@
+__pycache__/
+~$*
+*.log
+.DS_Store
+
+# organizer materials from the hackathon, not ours to redistribute
+Bol-Hackathon-1.pptx
+Bol-Hackathon-2.pptx
+Bol_ImpactReport*.pptx

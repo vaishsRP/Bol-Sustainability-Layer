@@ -1,4 +1,4 @@
-# bolhack
+# Bol-Sustainability-Layer
 
 Hackathon project for the bol.com sustainability case, June 2026.
 Team Ctrl+V, two people. We called it The Honest Price Tag.
